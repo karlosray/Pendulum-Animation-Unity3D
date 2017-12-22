@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D857A4C7-C0E5-1836-07E5-0A4DF818AF5C}") = "PendulumProject", "Assembly-CSharp.csproj", "{8C8C5739-8018-39B7-BAA8-378003AD7F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8C5739-8018-39B7-BAA8-378003AD7F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8C5739-8018-39B7-BAA8-378003AD7F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8C5739-8018-39B7-BAA8-378003AD7F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8C5739-8018-39B7-BAA8-378003AD7F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
